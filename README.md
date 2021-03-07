@@ -5,7 +5,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 # รายละเอียดของ Kubernetes Cluster
-- Kubernetes 1.19.0
+- Kubernetes 1.19.2
 - Docker 19.3.13
 - cni v0.8.7
 - etcd v3.4.13
@@ -15,7 +15,7 @@
 # สารบัญ Kubernetes The Hard Way - CentOS
 [01. รายละเอียดในการติดตั้ง](docs/01-prerequisites.md)
 
-[02. แนวคิดในการสร้าง TLS Certicate ใน Kubernetes และ สร้าง Certificate Authority กับ TLS Certificate](docs/02-generating-tls-certificate.md)
+[02. แนวคิดในการสร้าง TLS Certificate ใน Kubernetes และ สร้าง Certificate Authority กับ TLS Certificate](docs/02-generating-tls-certificate.md)
 
 [03. สร้าง Kubernetes Configuration Files สำหรับ Authentication](docs/03-generating-kubenetes-configuration-file.md)
 
